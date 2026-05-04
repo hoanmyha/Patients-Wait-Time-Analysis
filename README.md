@@ -10,7 +10,7 @@ The dataset was provided for the ASA DataFest competition hosted at Loyola Unive
 Since ASA DataFest 2026 is still ongoing in other regions, the dataset and analysis code are not included in this repository at this time.
 
 ## Presentation
-You can view our team’s presentation [here]([url](https://docs.google.com/presentation/d/1575E_rwGa1d-xeZCK15iPO9d3algdql-AXXL5bj-w-k/edit?slide=id.p1#slide=id.p1))
+You can view our team’s presentation: [View Presentation](https://docs.google.com/presentation/d/1575E_rwGa1d-xeZCK15iPO9d3algdql-AXXL5bj-w-k/edit?slide=id.p1#slide=id.p1)
 
 ## Future Updates
 A detailed breakdown of the methodology, analysis process, and key findings will be added after ASA DataFest 2026 concludes.
